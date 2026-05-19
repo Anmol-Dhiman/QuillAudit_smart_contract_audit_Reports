@@ -30,7 +30,7 @@ Each case study includes:
 
 - 1500+ Projects Secured
 - $3B+ TVL Protected
-- 15,000+ Issues Identified
+- 5,000+ Issues Identified
 - Security across smart contracts, infrastructure, and operational layers
 
 Learn more:
