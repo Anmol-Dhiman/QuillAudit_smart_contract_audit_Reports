@@ -49,4 +49,4 @@ By conducting audits and addressing identified issues, the Raga Finance Team has
 ## Full Case Study
 Read the complete case study here:
 
-https://quillaudits.com/case-studies/raga-finance-security-audit
+https://www.quillaudits.com/case-studies/quillaudits-secures-raga-finance
