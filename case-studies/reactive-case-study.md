@@ -40,4 +40,4 @@ By conducting audits and addressing identified issues, the Reactive Team has tak
 ## Full Case Study
 Read the complete case study here:
 
-https://quillaudits.com/case-studies/reactive-bridge-security-audit
+https://www.quillaudits.com/case-studies/quillaudits-secures-reactive-bridge
